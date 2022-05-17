@@ -8,7 +8,7 @@ interest: Cybersecurity, Malware, Penetration Testing, Code Obfuscation
 email: 17nea@queensu.ca
 github: NoorElAlfi
 linkedin: Noor El Alfi
-photo: 
+photo: https://ca.slack-edge.com/TLCB43A85-U03038N5MKK-d7a7c76f42d5-512
 bio: Noor El Alfi is an incoming Master's student, currently doing a research internship alongside Dr. Ding.
 ord: 16
 ---
