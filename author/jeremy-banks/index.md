@@ -4,6 +4,7 @@ designation : Master's Student
 interest: Machine Learning, Cybersecurity, Insider Threats
 email: jeremy.banks@queensu.ca
 github: JBanks
+linkedin: jeremycbanks
 photo: /images/team/jeremy_banks.jpg
 bio: Jeremy Banks is a Master's Student in the School of Computing at Queen's University. His undergraduate research was in the operations research domain, specifically with a focus on weapon targeting. Prior to his academic career, Jeremy was an Aerospace Telecommunications and Information Systems Technician with the Royal Canadian Air Force, specializing in network and system administration.
 ord: 7
@@ -19,4 +20,4 @@ ord: 7
 |      |                                                               |     |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------|----------|
 | 2021 | Ontario Graduate Scholarship (OGS) | $15,000 |
-
+| 2022 | NSERC CGS-M | $17,500 |
