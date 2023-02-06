@@ -1,6 +1,6 @@
 ---
 name: Christopher Molloy
-designation : Master's Student
+designation : Ph.D.
 items:
 interest: Adversarial Learning, Cybersecurity
 email: chris.molloy@queensu.ca
